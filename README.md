@@ -1,5 +1,6 @@
 
-![Alt text](<Captura de tela 2023-12-01 214509.png>)
+<img src="LogoProvisoria.png">
+
 # e-ferry
 
 Link de download da aplicação : 
