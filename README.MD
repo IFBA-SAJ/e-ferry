@@ -6,6 +6,7 @@
 Link de download da aplicação : 
 
 Screencast da Aplicação: https://youtu.be/pPZ4vgSXVVM
+
 Apresentação do Pitch do Projeto: https://youtu.be/pAJLX4eG3tg
 
 Projeto da disciplina Engenharia de Software, do curso de graduação em tecnologia de Análise e Desenvolvimento de Sistemas do  Instituto Federal de Educação, Ciência e Tecnologia da Bahia, Campus Santo Antônio de Jesus (IFBA-SAJ).
